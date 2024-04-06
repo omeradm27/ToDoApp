@@ -36,7 +36,7 @@ ToDoApp is a full-stack application for managing your tasks efficiently. It cons
 
 2. Set up prisma database configuration
     ```bash
-  npm run setup 
+    npm run setup 
 
 3. Set up environment variables:
     example.env change name as .env
