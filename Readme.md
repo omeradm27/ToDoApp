@@ -10,7 +10,6 @@ ToDoApp is a full-stack application for managing your tasks efficiently. It cons
 - Responsive and intuitive user interface with React and Ant Design components.
 - PDF generation of task reports with React PDF Renderer.
 - Form validation using Yup and React Hook Form.
-- State management with Zustand.
 - Tailwind CSS for effortless styling.
 
 ## Installation
