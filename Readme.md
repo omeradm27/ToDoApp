@@ -82,5 +82,4 @@ Ant Design
 Axios
 React Hook Form
 Yup
-Zustand
 Tailwind CSS
